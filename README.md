@@ -5,6 +5,12 @@ It includes a tool that allows users to **search for a keyword inside a file** (
 
 ---
 
+## 📄 Documentation
+
+You can view the detailed documentation here:  
+**[Assignment Documentation](https://docs.google.com/document/d/1prMqMwjT5Zi70FqnQzCr1r0WSaW4CHpoGg6EjazEonM/edit?usp=sharing)**
+
+---
 ## 📁 Project Structure
 
 ```
